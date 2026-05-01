@@ -14,7 +14,7 @@ body
 
 .nav 
     {
-        background-color:#0f172a(105, 87, 207);
+        background-color:#0f172a;
         width: 100%;
         margin: 0;
         padding: 10px;
@@ -56,6 +56,6 @@ h1
     {
         font-size: 24px;
         color: #f3eeee;
-        background-color: #3b82f6;
+        background-color: #1e293b;
         padding: 15px 20px;
     }
